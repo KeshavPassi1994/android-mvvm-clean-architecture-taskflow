@@ -59,12 +59,6 @@ com.taskflow
 
 ---
 
-## 📸 Screenshots
-
-(Add app screenshots here)
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repository
