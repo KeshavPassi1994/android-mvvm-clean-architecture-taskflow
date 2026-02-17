@@ -82,4 +82,4 @@ This project is created as a portfolio demonstration to showcase modern Android 
 
 ## 👨‍💻 Author
 
-Android Developer Portfolio Project
+This project is part of my professional Android development portfolio.
